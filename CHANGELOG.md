@@ -11,10 +11,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+### Fixed
+- Exclude self content share video stream index
+
 ### Removed
 - Remove  `device` demo from demos
-
-### Fixed
 
 ## [1.15.0] - 2020-08-10
 
